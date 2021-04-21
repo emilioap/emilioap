@@ -1,8 +1,3 @@
-## I'm Emilio Pagnoca
-- São Paulo, :brazil:
-- Senior Software Engineer
-- <a href="https://www.linkedin.com/in/emiliopagnoca/" target="_blank">LinkedIn</a>
-
 ## My Skills
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="65"></img>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="65"></img>
