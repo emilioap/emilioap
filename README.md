@@ -1,22 +1,23 @@
-## My Skills
+##### Bio
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" height="65"></img>
-<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" height="65"></img>
-<img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg" height="65"></img>
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="65"></img>
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height="65"></img>
+I'm a .NET Full-Stack Developer working in Brazil.
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" height="65"></img>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" height="65"></img>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" height="65"></img>
-<img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" height="65"></img>
-<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="65"></img>
+- 🏢 I'm currently working as .NET Core
+- ⚙️ I use daily: `.cs`, `.js`, `.ts`, `.html`
+- 🌱 Learning all about **Cloud and DevOps**
+- 💬 Ask me about Web Development
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" height="65"></img>
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" height="65"></img>
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" height="65"></img>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" height="65"></img>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" height="65"></img>
+![languages](https://img.shields.io/static/v1?label=&message=Languages:&color=555&style=flat-square)
+![csharp](https://img.shields.io/static/v1?logo=csharp&label=&message=csharp&color=111&logoColor=AAA&style=flat-square&link=)
+![php](https://img.shields.io/static/v1?logo=php&label=&message=php&color=111&logoColor=AAA&style=flat-square&link=)
+![javascript](https://img.shields.io/static/v1?logo=javascript&label=&message=javascript&color=111&logoColor=AAA&style=flat-square&link=)
+![typescript](https://img.shields.io/static/v1?logo=typescript&label=&message=typescript&color=111&logoColor=AAA&style=flat-square)
+![node.js](https://img.shields.io/static/v1?logo=node.js&label=&message=node.js&color=111&logoColor=AAA&style=flat-square)
+![html5](https://img.shields.io/static/v1?logo=html5&label=&message=html5&color=111&logoColor=AAA&style=flat-square)
+![sass](https://img.shields.io/static/v1?logo=sass&label=&message=sass&color=111&logoColor=AAA&style=flat-square)
 
+##### Stats
 
-![Emilio's github stats](https://github-readme-stats.vercel.app/api?username=emilioap&show_icons=true&count_private=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emilioap&layout=compact&theme=dark)
+
+![Emilio's github stats](https://github-readme-stats.vercel.app/api?username=emilioap&show_icons=true&count_private=true&theme=dark)
