@@ -1,12 +1,3 @@
-##### Bio
-
-I'm a Software Engineer working in Brazil.
-
-- 🏢 I'm currently working as .NET Core
-- ⚙️ I use daily: `.cs`, `.js`, `.ts`, `.html`
-- 🌱 Learning all about **Cloud and DevOps**
-- 💬 Ask me about Web Development
-
 ![languages](https://img.shields.io/static/v1?label=&message=Languages:&color=555&style=flat-square)
 ![csharp](https://img.shields.io/static/v1?logo=csharp&label=&message=csharp&color=111&logoColor=AAA&style=flat-square&link=)
 ![node.js](https://img.shields.io/static/v1?logo=node.js&label=&message=node.js&color=111&logoColor=AAA&style=flat-square)
