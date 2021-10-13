@@ -9,8 +9,6 @@
 ![html5](https://img.shields.io/static/v1?logo=html5&label=&message=html5&color=111&logoColor=AAA&style=flat-square)
 ![sass](https://img.shields.io/static/v1?logo=sass&label=&message=sass&color=111&logoColor=AAA&style=flat-square)
 
-##### Stats
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emilioap&layout=compact&theme=dark)
 
 ![Emilio's github stats](https://github-readme-stats.vercel.app/api?username=emilioap&show_icons=true&count_private=true&theme=dark)
